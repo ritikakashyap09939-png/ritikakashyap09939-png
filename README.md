@@ -11,14 +11,13 @@ Independent digital professional from Kaithal, India. I build websites, manage s
 
 ## Find me online
 
-- Portfolio: https://ritika-rajput-portfolio.vercel.app
-- Blog: https://ritika-rajput-portfolio.vercel.app/blog
-- Skills: https://ritika-rajput-portfolio.vercel.app/skills
-- Contact: https://ritika-rajput-portfolio.vercel.app/contact
-- https://dev.to › ritika_rajput
-- https://www.youtube.com/@RitikaMoments
-- https://ritikarajput-dev.blogspot.com
-  
+- 🌐 [Portfolio](https://ritika-rajput-portfolio.vercel.app)
+- ✍️ [Blog on my portfolio](https://ritika-rajput-portfolio.vercel.app/blog)
+- 📝 [Web Dev Notes on Blogger](https://ritikarajput-dev.blogspot.com)
+- 🎬 [YouTube: Ritika Moments](https://www.youtube.com/@RitikaMoments)
+- 💻 [DEV Community](https://dev.to/ritika_rajput)
+- ✉️ [Contact](https://ritika-rajput-portfolio.vercel.app/contact)
+
 ## Latest from my blog
 
 - [5 Simple Rules for Building a Responsive Website](https://ritika-rajput-portfolio.vercel.app/blog/responsive-website-design-rules)
